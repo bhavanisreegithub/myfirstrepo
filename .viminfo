@@ -9,6 +9,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
+:wq11
 
 # Search String History (newest to oldest):
 
@@ -21,15 +22,15 @@
 # Registers:
 
 # File marks:
-'0  1  13  ~/file1
+'0  1  0  ~/file1
 
 # Jumplist (newest first):
--'  1  13  ~/file1
+-'  1  0  ~/file1
 
 # History of marks within files (newest to oldest):
 
 > ~/file1
-	"	1	13
-	^	1	14
-	.	1	13
-	+	1	13
+	"	1	0
+	^	1	49
+	.	1	48
+	+	1	48
